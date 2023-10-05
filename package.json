@@ -1,0 +1,21 @@
+{
+  "name": "foundry-module-stocks-and-gambling",
+  "scripts": {
+    "test": "tsc --project tsconfig.json --noEmit"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "node-sass": "^8.0.0",
+    "typescript": "^4.9.3",
+    "@ethaks/fvtt-quench": "^0.8.1",
+    "@jgoz/esbuild-plugin-typecheck": "^2.0.0",
+    "@league-of-foundry-developers/foundry-vtt-types": "^9.269.0",
+    "@types/node": "^18.11.0",
+    "fs-extra": "^10.1.0",
+    "del": "^5.1.0",
+    "chalk": "^4.1.2",
+    "esbuild": "^0.15.14"
+  }
+}

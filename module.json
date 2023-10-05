@@ -1,0 +1,29 @@
+{
+  "id": "gambling-and-stocks",
+  "name": "gambling-and-stocks",
+  "title": "Gambling & Stocks",
+  "description": "Adds Gambling systems - Stocks, Roulette, Blackjack, and more!",
+  "authors": [
+    {
+      "name": "BASIC"
+    }
+  ],
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "esmodules": [
+    "dist/bundle.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "dist/lang/en/config.json"
+    }
+  ],
+  "styles": [
+    "dist/bundle.css"
+  ]
+}
